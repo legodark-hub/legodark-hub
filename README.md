@@ -1,6 +1,6 @@
 # Hi, I'm Aidar Minyazev! 👋
 
-I am currently studying programming, with a focus on backend development using Python. I enjoy working on interesting projects and sharing my knowledge.
+I am currently studying programming, with a focus on backend development using Python.
 
 ## 🚀 My Current Projects
 
